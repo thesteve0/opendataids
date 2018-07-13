@@ -1,3 +1,3 @@
-# Project to get metadata on all OpenData images
+# Project to make a bounding box on all OpenData "events"
 
 This project was not finished

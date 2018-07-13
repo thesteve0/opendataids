@@ -111,3 +111,4 @@ venv.bak/
 .idea/
 opendataids.iml
 /gbdx.ini
+/event_bboxes.json
